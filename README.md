@@ -1,1 +1,1 @@
-New folder
+This repo contains projects which describe computer architecture: direct work with processor and different computer chips.
